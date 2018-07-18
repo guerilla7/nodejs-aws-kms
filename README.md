@@ -11,3 +11,6 @@ https://docs.aws.amazon.com/kms/latest/developerguide/overview.html
 
 AWS Key Management Service Cryptographic Details:
 https://d0.awsstatic.com/whitepapers/KMS-Cryptographic-Details.pdf
+
+Encryption Context
+https://docs.aws.amazon.com/kms/latest/developerguide/encryption-context.html
