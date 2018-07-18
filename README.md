@@ -5,6 +5,7 @@ Install AWS SDK first on the command line:
 npm install aws-sdk
 
 Resources:
+
 What is AWS Key Management Service?
 https://docs.aws.amazon.com/kms/latest/developerguide/overview.html
 
